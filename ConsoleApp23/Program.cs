@@ -45,6 +45,9 @@ namespace ConsoleApp23
             Console.WriteLine(sc3.GetType());
             sc3 = 3.2;
             Console.WriteLine(sc3.GetType());
+
+            Console.WriteLine("Super");
+
             Console.ReadLine();
         }
 
