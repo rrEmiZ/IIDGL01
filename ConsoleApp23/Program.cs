@@ -47,6 +47,7 @@ namespace ConsoleApp23
             Console.WriteLine(sc3.GetType());
 
             Console.WriteLine("Super");
+            Console.WriteLine("Super2");
 
             Console.ReadLine();
         }
